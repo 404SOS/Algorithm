@@ -39,6 +39,7 @@ public class C {
     }
 }
 //题解分析过程：
+//https://mp.weixin.qq.com/s/_QVP3IkRZWx9zIpQRgajzA
 //设head 到 环入口位置为 a，环长为b；    快指针走的距离为f，慢指针为s；
 // fast 走的步数是slow步数的 2倍，即 f =2s；（解析： fast 每轮走 2 步）
 //fast 比 slow多走了 n个环的长度，即 f = s + nb；
