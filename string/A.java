@@ -1,4 +1,4 @@
-package com.aojia.practice;
+package com.aojia.practice.string;
 
 import java.util.Scanner;
 
