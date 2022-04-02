@@ -22,7 +22,7 @@ public class B {
         int size=nums.length;
         for (int i=0; i<size;i++){
             if (nums[i]==val){ //当发现要移除的元素时，将删除元素后的元素向前移动
-             for (int j=i+1; j<nums.length;j++){
+             for (int j=i+1; j<size;j++){
                  nums[j-1]=nums[j];
              }
              i--;//后边元素前移 所以i也前移 重新比较
