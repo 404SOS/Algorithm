@@ -6,5 +6,5 @@ package com.aojia.practice.stackAndQueue;
  * @Description
  */
 public class C {
-//用gitee 给我难受坏了ssssss
+//搞了一天git  明天继续写c类算法 今天先这样了
 }
