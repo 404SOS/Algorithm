@@ -6,4 +6,5 @@ package com.aojia.practice.stackAndQueue;
  * @Description
  */
 public class C {
+    
 }
