@@ -7,8 +7,8 @@ import java.util.Stack;
  * @date 2022/4/6
  * @Description 1047. 删除字符串中的所有相邻重复项
  * 给出由小写字母组成的字符串 S，重复项删除操作会选择两个相邻且相同的字母，并删除它们。
- * 输入："abbaca"
- * 输出："ca"
+ * 输 入："abbaca"
+ * 输 出："ca"
  */
 public class B {
     public static String removeDuplicates(String S) {

@@ -8,7 +8,8 @@ import java.util.Stack;
  * @Description  20. 有效的括号
  * 输入：s = "(]"
  * 输出：false
- * 输入：s = "{[]}"   输出：true  输入：s = "()[]{}"  输出：true
+ * 输入：s = "{[]}"   输出：true
+ * 输入：s = "()[]{}"  输出：true
  */
 public class A {
     public static boolean isValid(String s) {
