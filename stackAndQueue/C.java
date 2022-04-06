@@ -6,5 +6,5 @@ package com.aojia.practice.stackAndQueue;
  * @Description
  */
 public class C {
-//用gitee 给我难受坏了
+//用gitee 给我难受坏了撒旦
 }
